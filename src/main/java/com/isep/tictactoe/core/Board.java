@@ -1,3 +1,4 @@
+package com.isep.tictactoe.core;
 
 public class Board {
     private int[][] board;

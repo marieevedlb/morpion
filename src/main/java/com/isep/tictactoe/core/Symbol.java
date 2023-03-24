@@ -1,4 +1,6 @@
+package com.isep.tictactoe.core;
 import java.util.InputMismatchException;
+
 public enum Symbol {
     NAUGHT("o"),
     CROSS("x");
